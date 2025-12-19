@@ -50,17 +50,17 @@ The architecture mirrors how large-scale NLP pipelines are built in production s
 
 ## 📂 Project Structure
 
-contact-center-sentiment/
-│
-├── engine.py # Main entry point (run this file)
-├── config.py # Central configuration
-├── data_processing.py # CSV loading & conversation structuring
-├── ollama_client.py # Async Ollama inference client
-├── batch_runner.py # Batch + concurrency orchestration
-├── metrics.py # Output writing & run statistics
-├── requirements.txt # Python dependencies
-├── synthetic_conversations_1M_input.csv
-└── README.md
+contact-center-sentiment
+- engine.py — Main entry point (run this file)
+- config.py — Central configuration
+- data_processing.py — CSV loading & conversation structuring
+- ollama_client.py — Async Ollama inference client
+- batch_runner.py — Batch + concurrency orchestration
+- metrics.py — Output writing & run statistics
+- requirements.txt — Python dependencies
+- synthetic_conversations_1M_input.csv
+- README.md
+
 
 ---
 
