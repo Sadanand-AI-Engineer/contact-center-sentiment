@@ -152,3 +152,8 @@ Character & message limits → reduces tokens, improves speed
 Async + batching → mimics real production inference pipelines
 
 Local LLMs → cost-free, privacy-friendly experimentation
+
+👤 Author
+
+Sadanand
+AI / Data Engineering | Async pipelines | LLM systems | Python
