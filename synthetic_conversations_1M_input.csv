@@ -1,0 +1,162 @@
+conversation_id,turn_index,role,text
+call-000001,1,agent,I'm glad I could help. Have a great day!
+call-000001,2,customer,I'm very disappointed with your service.
+call-000001,3,agent,"Thank you for your patience, I'm looking into this."
+call-000001,4,customer,My internet is not working and I'm really upset.
+call-000001,5,agent,I'm glad I could help. Have a great day!
+call-000001,6,customer,Can you confirm my appointment time?
+call-000001,7,agent,I'm sorry for the inconvenience. Let me check that for you.
+call-000001,8,customer,I just want to check the status of my order.
+call-000001,9,agent,I'm sorry for the inconvenience. Let me check that for you.
+call-000001,10,customer,This is the third time I'm calling about the same issue.
+call-000002,1,agent,I will escalate this issue to our specialist team.
+call-000002,2,customer,Can you confirm my appointment time?
+call-000002,3,agent,"Thank you for your patience, I'm looking into this."
+call-000002,4,customer,Can you confirm my appointment time?
+call-000002,5,agent,I have updated your account. Is there anything else I can help with?
+call-000002,6,customer,"I waited on hold for 30 minutes, this is unacceptable."
+call-000002,7,agent,"I understand your concern, I will do my best to help."
+call-000002,8,customer,"Thank you so much, this was very helpful!"
+call-000002,9,agent,"Thank you for your patience, I'm looking into this."
+call-000002,10,customer,I would like to know more about your plans.
+call-000003,1,agent,"I understand your concern, I will do my best to help."
+call-000003,2,customer,I'm very disappointed with your service.
+call-000003,3,agent,I'm sorry for the inconvenience. Let me check that for you.
+call-000003,4,customer,My internet is not working and I'm really upset.
+call-000003,5,agent,"I understand your concern, I will do my best to help."
+call-000003,6,customer,"Great service, I'll recommend you to my friends."
+call-000003,7,agent,"I understand your concern, I will do my best to help."
+call-000003,8,customer,"I appreciate your support, everything is working now."
+call-000003,9,agent,I will escalate this issue to our specialist team.
+call-000003,10,customer,The product arrived damaged and I want a refund.
+call-000004,1,agent,I'm sorry for the inconvenience. Let me check that for you.
+call-000004,2,customer,Can you confirm my appointment time?
+call-000004,3,agent,"I understand your concern, I will do my best to help."
+call-000004,4,customer,I just want to check the status of my order.
+call-000004,5,agent,I'm sorry for the inconvenience. Let me check that for you.
+call-000004,6,customer,I would like to know more about your plans.
+call-000004,7,agent,I'm sorry for the inconvenience. Let me check that for you.
+call-000004,8,customer,"Thank you so much, this was very helpful!"
+call-000004,9,agent,I have updated your account. Is there anything else I can help with?
+call-000004,10,customer,I'm very disappointed with your service.
+call-000005,1,agent,"Thank you for your patience, I'm looking into this."
+call-000005,2,customer,This is the third time I'm calling about the same issue.
+call-000005,3,agent,I'm glad I could help. Have a great day!
+call-000005,4,customer,My internet is not working and I'm really upset.
+call-000005,5,agent,I will escalate this issue to our specialist team.
+call-000005,6,customer,Can you confirm my appointment time?
+call-000005,7,agent,I'm glad I could help. Have a great day!
+call-000005,8,customer,The product arrived damaged and I want a refund.
+call-000005,9,agent,I have updated your account. Is there anything else I can help with?
+call-000005,10,customer,"I waited on hold for 30 minutes, this is unacceptable."
+call-000006,1,agent,"Thank you for your patience, I'm looking into this."
+call-000006,2,customer,I just want to check the status of my order.
+call-000006,3,agent,"Thank you for your patience, I'm looking into this."
+call-000006,4,customer,"You fixed my issue very quickly, thanks!"
+call-000006,5,agent,I have updated your account. Is there anything else I can help with?
+call-000006,6,customer,This is the third time I'm calling about the same issue.
+call-000006,7,agent,I will escalate this issue to our specialist team.
+call-000006,8,customer,"You fixed my issue very quickly, thanks!"
+call-000006,9,agent,"Thank you for your patience, I'm looking into this."
+call-000006,10,customer,I need help understanding my bill.
+call-000007,1,agent,I'm glad I could help. Have a great day!
+call-000007,2,customer,I would like to know more about your plans.
+call-000007,3,agent,"Thank you for your patience, I'm looking into this."
+call-000007,4,customer,"I waited on hold for 30 minutes, this is unacceptable."
+call-000007,5,agent,I will escalate this issue to our specialist team.
+call-000007,6,customer,"I waited on hold for 30 minutes, this is unacceptable."
+call-000007,7,agent,I have updated your account. Is there anything else I can help with?
+call-000007,8,customer,"I appreciate your support, everything is working now."
+call-000007,9,agent,"I understand your concern, I will do my best to help."
+call-000007,10,customer,This is the third time I'm calling about the same issue.
+call-000008,1,agent,I will escalate this issue to our specialist team.
+call-000008,2,customer,I just want to check the status of my order.
+call-000008,3,agent,I'm sorry for the inconvenience. Let me check that for you.
+call-000008,4,customer,This is the third time I'm calling about the same issue.
+call-000008,5,agent,I'm glad I could help. Have a great day!
+call-000008,6,customer,I just want to check the status of my order.
+call-000008,7,agent,I have updated your account. Is there anything else I can help with?
+call-000008,8,customer,The product arrived damaged and I want a refund.
+call-000008,9,agent,I will escalate this issue to our specialist team.
+call-000008,10,customer,"I waited on hold for 30 minutes, this is unacceptable."
+call-000009,1,agent,I'm sorry for the inconvenience. Let me check that for you.
+call-000009,2,customer,I just want to check the status of my order.
+call-000009,3,agent,I'm glad I could help. Have a great day!
+call-000009,4,customer,"You fixed my issue very quickly, thanks!"
+call-000009,5,agent,I'm glad I could help. Have a great day!
+call-000009,6,customer,I'm very disappointed with your service.
+call-000009,7,agent,I have updated your account. Is there anything else I can help with?
+call-000009,8,customer,My internet is not working and I'm really upset.
+call-000009,9,agent,I'm glad I could help. Have a great day!
+call-000009,10,customer,"You fixed my issue very quickly, thanks!"
+call-000010,1,agent,I will escalate this issue to our specialist team.
+call-000010,2,customer,Can you confirm my appointment time?
+call-000010,3,agent,I'm sorry for the inconvenience. Let me check that for you.
+call-000010,4,customer,"You fixed my issue very quickly, thanks!"
+call-000010,5,agent,I'm glad I could help. Have a great day!
+call-000010,6,customer,Can you help me update my email address?
+call-000010,7,agent,"Thank you for your patience, I'm looking into this."
+call-000010,8,customer,This is the third time I'm calling about the same issue.
+call-000010,9,agent,I will escalate this issue to our specialist team.
+call-000010,10,customer,"Great service, I'll recommend you to my friends."
+call-000011,1,agent,I'm sorry for the inconvenience. Let me check that for you.
+call-000011,2,customer,I need help understanding my bill.
+call-000011,3,agent,I'm sorry for the inconvenience. Let me check that for you.
+call-000011,4,customer,I'm very disappointed with your service.
+call-000011,5,agent,"I understand your concern, I will do my best to help."
+call-000011,6,customer,This is the third time I'm calling about the same issue.
+call-000011,7,agent,I will escalate this issue to our specialist team.
+call-000011,8,customer,"Thank you so much, this was very helpful!"
+call-000011,9,agent,I'm glad I could help. Have a great day!
+call-000011,10,customer,I just want to check the status of my order.
+call-000012,1,agent,I will escalate this issue to our specialist team.
+call-000012,2,customer,Can you help me update my email address?
+call-000012,3,agent,I'm glad I could help. Have a great day!
+call-000012,4,customer,Can you confirm my appointment time?
+call-000012,5,agent,"Thank you for your patience, I'm looking into this."
+call-000012,6,customer,"I waited on hold for 30 minutes, this is unacceptable."
+call-000012,7,agent,I have updated your account. Is there anything else I can help with?
+call-000012,8,customer,"Great service, I'll recommend you to my friends."
+call-000012,9,agent,I'm glad I could help. Have a great day!
+call-000012,10,customer,I would like to know more about your plans.
+call-000013,1,agent,I have updated your account. Is there anything else I can help with?
+call-000013,2,customer,"You fixed my issue very quickly, thanks!"
+call-000013,3,agent,I have updated your account. Is there anything else I can help with?
+call-000013,4,customer,"I appreciate your support, everything is working now."
+call-000013,5,agent,I'm sorry for the inconvenience. Let me check that for you.
+call-000013,6,customer,My internet is not working and I'm really upset.
+call-000013,7,agent,"I understand your concern, I will do my best to help."
+call-000013,8,customer,"I waited on hold for 30 minutes, this is unacceptable."
+call-000013,9,agent,"Thank you for your patience, I'm looking into this."
+call-000013,10,customer,I just want to check the status of my order.
+call-000014,1,agent,I'm sorry for the inconvenience. Let me check that for you.
+call-000014,2,customer,I just want to check the status of my order.
+call-000014,3,agent,"Thank you for your patience, I'm looking into this."
+call-000014,4,customer,My internet is not working and I'm really upset.
+call-000014,5,agent,"I understand your concern, I will do my best to help."
+call-000014,6,customer,This is the third time I'm calling about the same issue.
+call-000014,7,agent,"I understand your concern, I will do my best to help."
+call-000014,8,customer,Can you help me update my email address?
+call-000014,9,agent,I will escalate this issue to our specialist team.
+call-000014,10,customer,"I waited on hold for 30 minutes, this is unacceptable."
+call-000015,1,agent,I will escalate this issue to our specialist team.
+call-000015,2,customer,I need help understanding my bill.
+call-000015,3,agent,I have updated your account. Is there anything else I can help with?
+call-000015,4,customer,My internet is not working and I'm really upset.
+call-000015,5,agent,I'm glad I could help. Have a great day!
+call-000015,6,customer,I need help understanding my bill.
+call-000015,7,agent,I have updated your account. Is there anything else I can help with?
+call-000015,8,customer,I just want to check the status of my order.
+call-000015,9,agent,I'm glad I could help. Have a great day!
+call-000015,10,customer,I just want to check the status of my order.
+call-000016,1,agent,I'm sorry for the inconvenience. Let me check that for you.
+call-000016,2,customer,I would like to know more about your plans.
+call-000016,3,agent,I'm sorry for the inconvenience. Let me check that for you.
+call-000016,4,customer,This is the third time I'm calling about the same issue.
+call-000016,5,agent,I will escalate this issue to our specialist team.
+call-000016,6,customer,I need help understanding my bill.
+call-000016,7,agent,"Thank you for your patience, I'm looking into this."
+call-000016,8,customer,This is the third time I'm calling about the same issue.
+call-000016,9,agent,I'm sorry for the inconvenience. Let me check that for you.
+call-000016,10,customer,Can you confirm my appointment time?
+call-000017,1,agent,I'm sorry for the inconvenience. Let me check that for you.
